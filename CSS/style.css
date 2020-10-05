@@ -116,13 +116,11 @@ header {
     background-color: #f0f0f0;
     position: relative;
     margin-top: 100px;
-    overflow:hidden;
 }
 .news {
     padding-top: 50px;
     width: 30%;
     margin: auto;
-    overflow:hidden;
 }
 .news h1 {
     font-size: 31px;
