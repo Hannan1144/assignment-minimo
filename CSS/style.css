@@ -121,7 +121,7 @@ header {
     padding-top: 50px;
     width: 30%;
     margin: auto;
-    position: relative;
+    overflow:hidden;
 }
 .news h1 {
     font-size: 31px;
@@ -135,6 +135,7 @@ input {
     margin-top: 40px;
     outline: none;
     font-family: 'Playfair Display', serif;
+    overflow:hidden;
 }
 .icon {
     position: absolute;
@@ -145,6 +146,7 @@ input {
 .load-more {
     height: 200px;
     width: 100%;
+    overflow:hidden;
 }
 .load-more h1 {
     
@@ -156,6 +158,7 @@ input {
     margin-top: 150px;
     font-size: 30px;
     font-family: 'Playfair Display', serif;
+    overflow: hidden;
 }
 footer {
     width: 100%;
