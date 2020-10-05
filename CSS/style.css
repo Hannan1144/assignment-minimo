@@ -149,7 +149,6 @@ input {
 .load-more {
     height: 200px;
     width: 100%;
-    overflow:hidden;
 }
 .load-more h1 {
     
@@ -161,7 +160,6 @@ input {
     margin-top: 150px;
     font-size: 30px;
     font-family: 'Playfair Display', serif;
-    overflow: hidden;
 }
 footer {
     width: 100%;
