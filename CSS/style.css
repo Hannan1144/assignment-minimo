@@ -125,7 +125,6 @@ header {
 .news h1 {
     font-size: 31px;
     font-family: 'Playfair Display', serif;
-    overflow:hidden;
 }
 input {
     background: none;
@@ -135,7 +134,6 @@ input {
     margin-top: 40px;
     outline: none;
     font-family: 'Playfair Display', serif;
-    overflow:hidden;
 }
 .icon {
     position: absolute;
