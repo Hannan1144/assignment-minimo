@@ -143,7 +143,6 @@ input {
     position: absolute;
     right: 0;
     bottom: 1px;
-    overflow:hidden;
 }
 
 .load-more {
