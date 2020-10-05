@@ -116,6 +116,7 @@ header {
     background-color: #f0f0f0;
     position: relative;
     margin-top: 100px;
+    overflow: hidden;
 }
 .news {
     padding-top: 50px;
@@ -166,7 +167,6 @@ footer {
     overflow: hidden;
     margin: auto;
     padding: 30px 0;
-    overflow:hidden;
 }
 .term-condition {
     float: left;
