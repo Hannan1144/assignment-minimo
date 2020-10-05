@@ -121,6 +121,7 @@ header {
     padding-top: 50px;
     width: 30%;
     margin: auto;
+    position: relative;
 }
 .news h1 {
     font-size: 31px;
@@ -133,7 +134,6 @@ input {
     width: 100%;
     margin-top: 40px;
     outline: none;
-    position: relative;
     font-family: 'Playfair Display', serif;
 }
 .icon {
